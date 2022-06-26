@@ -1,0 +1,23 @@
+PODS:
+  - mopub-ios-sdk (5.13.0):
+    - mopub-ios-sdk/MoPubSDK (= 5.13.0)
+  - mopub-ios-sdk/Core (5.13.0)
+  - mopub-ios-sdk/MoPubSDK (5.13.0):
+    - mopub-ios-sdk/Core
+    - mopub-ios-sdk/NativeAds
+  - mopub-ios-sdk/NativeAds (5.13.0):
+    - mopub-ios-sdk/Core
+
+DEPENDENCIES:
+  - mopub-ios-sdk
+
+SPEC REPOS:
+  trunk:
+    - mopub-ios-sdk
+
+SPEC CHECKSUMS:
+  mopub-ios-sdk: 10865909734ce73d755dc23003a381497fbbb792
+
+PODFILE CHECKSUM: 0181f1d8d958984d0922b32c2d59b99d400da4ea
+
+COCOAPODS: 1.9.3
